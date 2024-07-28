@@ -1,2 +1,2 @@
-# aula_de_python
-aula de python com o marcio github
+# Python Classes
+Respository of all notebooks about learning Python from Prof. Marcio Saraiva
