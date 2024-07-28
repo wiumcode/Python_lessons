@@ -1,2 +1,2 @@
 # Python Classes
-Respository of all notebooks about learning Python from Prof. Marcio Saraiva
+Respository of all notebooks about learning Python with Prof. Marcio Saraiva
